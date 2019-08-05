@@ -5,8 +5,8 @@
 import RPi.GPIO as GPIO
 import time
 
-pinLED1 = 13
-pinLED2 = 15
+pinLED1 = 16
+pinLED2 = 18
 timeDelay = .3  # in seconds
 
 def main():
